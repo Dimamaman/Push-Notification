@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799960124782",
+    "project_id": "push-notification-27ea1",
+    "storage_bucket": "push-notification-27ea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799960124782:android:da06dce4ae9088c455c57f",
+        "android_client_info": {
+          "package_name": "uz.gita.dima.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799960124782-5ebr540du699lbjt1j4925nkjj7qk5l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-PCRbsZ-z3i5wbtS-XKQTg9eZ2EsLtI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799960124782-5ebr540du699lbjt1j4925nkjj7qk5l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
